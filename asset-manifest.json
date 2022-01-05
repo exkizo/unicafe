@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/unicafe/static/js/main.320d2f97.js",
+    "main.js": "/unicafe/static/js/main.d6699172.js",
     "index.html": "/unicafe/index.html",
-    "main.320d2f97.js.map": "/unicafe/static/js/main.320d2f97.js.map"
+    "main.d6699172.js.map": "/unicafe/static/js/main.d6699172.js.map"
   },
   "entrypoints": [
-    "static/js/main.320d2f97.js"
+    "static/js/main.d6699172.js"
   ]
 }
